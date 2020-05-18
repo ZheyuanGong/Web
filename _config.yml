@@ -15,6 +15,6 @@ email: zygong@mie.utoronto.ca
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "Zheyuan Gong"
 
 exclude: ['package.json', 'src' , 'node_modules']
